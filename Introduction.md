@@ -9,10 +9,7 @@
 ---
 Satellite construction, standards: types, advantages and disadvantages of sizes; cell phone component
 ---
-l
-subsystem of the satellites:
-
----
+**subsystem of the satellites:**
 
 bus
 - Elec. Power Supp
@@ -31,8 +28,8 @@ Payload
 - Navigat
 - Military
 ---
-| --- | --- | --- |
-| EPS: | Attitude control: | AOCS Actuators: | 
+
+EPS:
 - Solar generator
 - Thermoelectric Radioisotope Thermoelectric Generator (RTC): to provide heat and energy when probes are far away from the Earth, e.g., Mars rovers
 
