@@ -7,9 +7,7 @@
 
 22 July 2026
 ---
-Satellite construction, standards: types, advantages and disadvantages of sizes
-
-cell phone component
+Satellite construction, standards: types, advantages and disadvantages of sizes; cell phone component
 ---
 
 subsystem of the satellites:
