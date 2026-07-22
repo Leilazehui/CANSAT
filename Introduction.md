@@ -17,7 +17,7 @@ subsystem of the satellites:
 bus
 - Elec. Power Supp
 - Thermal
-- Alttitude
+- Attitude
 - OBC
 - TT&X
 - Propusion
@@ -30,5 +30,8 @@ Payload
 - Meterological Inst.
 - Navigat
 - Military
-
 ---
+
+EPS: 
+- Solar generator
+- Thermoelectric Radioisotope Thermoelectric Generator (RTC): to provide heat and energy when probes are far away from the Earth, e.g., Mars rovers /
