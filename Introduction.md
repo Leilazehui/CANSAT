@@ -31,7 +31,7 @@ Payload
 - Navigat
 - Military
 ---
-
+| --- | --- | --- |
 | EPS: | Attitude control: | AOCS Actuators: | 
 - Solar generator
 - Thermoelectric Radioisotope Thermoelectric Generator (RTC): to provide heat and energy when probes are far away from the Earth, e.g., Mars rovers
