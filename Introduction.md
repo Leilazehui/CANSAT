@@ -9,7 +9,7 @@
 ---
 Satellite construction, standards: types, advantages and disadvantages of sizes; cell phone component
 ---
-
+l
 subsystem of the satellites:
 
 ---
@@ -53,4 +53,19 @@ Hot gas:
 - Solid propellant boosters: **study the N-t diagram of thrust of solid fuel of the rocket** (good side: enormous amount of thrust; down side: cannot be regulated)
 - Ion propulsion: Xenon ion pushed by electron
 - Solar sails: photons
-- 
+
+
+Structures and mechanisms:
+- deployment, folding spring mechanism for modules, e.g., solar panels, antenna
+
+---
+Contact to Ground station: Berlin and Hainan? OCI project?
+
+**Ground station at poles:**
+- Svalbard in north pole, san martin base in south pole
+---
+Cost of space launches:
+- Source: Our world in data
+- heavy payload - falcon series: 2000 dollar /kg
+- medium to light payload - 2000-6000 dollar/kg
+---
