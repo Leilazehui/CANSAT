@@ -55,8 +55,8 @@ Hot gas:
 - Solar sails: photons
 
 
-Structures and mechanisms:
-- deployment, folding spring mechanism for modules, e.g., solar panels, antenna
+| Structures and mechanisms: |
+| - deployment, folding spring mechanism for modules, e.g., solar panels, antenna |
 
 ---
 Contact to Ground station: Berlin and Hainan? OCI project?
