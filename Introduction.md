@@ -69,3 +69,4 @@ Cost of space launches:
 - heavy payload - falcon series: 2000 dollar /kg
 - medium to light payload - 2000-6000 dollar/kg
 ---
+Consequences of space derbis: keslar syndrom? need to clean the space debris to make sure the launch arent hindered by them.
