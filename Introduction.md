@@ -70,7 +70,9 @@ Consequences of space derbis: keslar syndrom? need to clean the space debris to 
 
 23 July 2026 Electrical engineering 
 ---
+
 Avalanche 
 Read the code of resistor 
 SMD resistor: surface mounted device resistor
+
 ---
