@@ -67,3 +67,10 @@ Cost of space launches:
 - medium to light payload - 2000-6000 dollar/kg
 ---
 Consequences of space derbis: keslar syndrom? need to clean the space debris to make sure the launch arent hindered by them.
+
+23 July 2026 Electrical engineering 
+---
+Avalanche 
+Read the code of resistor 
+SMD resistor: surface mounted device resistor
+---
