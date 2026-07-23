@@ -52,8 +52,8 @@ Hot gas:
 - Solar sails: photons
 
 
-| Structures and mechanisms: |
-| - deployment, folding spring mechanism for modules, e.g., solar panels, antenna |
+Structures and mechanisms:
+- deployment, folding spring mechanism for modules, e.g., solar panels, antenna
 
 ---
 Contact to Ground station: Berlin and Hainan? OCI project?
@@ -71,8 +71,17 @@ Consequences of space derbis: keslar syndrom? need to clean the space debris to 
 23 July 2026 Electrical engineering 
 ---
 
-Avalanche 
-Read the code of resistor 
-SMD resistor: surface mounted device resistor
+- Avalanche
+- Read the code of resistor 
+- SMD resistor: surface mounted device resistor
+- study eletrcical theories, laws and equations: ohm's law, kirchoff's law,
+
+Prepare powerpoint presentation (around 8 minutes) on next week:
+- team management: introduce team members, name of the team, communication within team
+- work breakdown structure (with responsibilities), work shcedule
+- first concept ideas (cansat, parachute removal)
+- requirements and objectives
+
 
 ---
+
